@@ -53,11 +53,11 @@ const App = () => {
   }
 
   return (
-    <div className="bg-green-900 w-2/3 mx-auto mt-3 border border-black rounded-md">
+    <div className="bg-green-900 w-4/5 mx-auto mt-3 border border-black rounded-md">
       <div className="mt-10  text-2xl  mx-auto text-center  font-bold underline my-[20px] py-2  ">SIP Calculator</div>
 
       <div className=" grid sm:grid-cols-2 justify-center text-xl bg-slate-100 pt-2">
-        <div className=" border-slate-400 max-w-[800px]  my-2 mx-auto px-2 "  >
+        <div className=" border-slate-400 max-w-[600px]  my-2 mx-auto px-2 "  >
           <div className="flex justify-between ">
             <div className="font-semibold">
               Monthly Investment
